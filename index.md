@@ -1,1 +1,1 @@
-[Tekoälyn ohjelmointi Pyhonilla](https://plassi.github.io/tekoalyn-ohjelmointi-pythonilla).
+[Tekoälyn ohjelmointi Pythonilla](https://plassi.github.io/tekoalyn-ohjelmointi-pythonilla).
