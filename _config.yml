@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: plassin github-sivu !
-description: Oikealla linkki blogiini
+title: Lassi Puurusen github-sivu
+description: Henkilökohtainen github-sivuni. Sisältöä alkaa tulemaan aluksi blogin muodossa olevaan opintopäiväkirjaani. Ensimmäisen blogin aiheena on tekoälyn käytännön toteutus Pythonilla, käyttäen fast.ai- sekä PyTorch-kirjastoja. 
 github_username: plassi
 
 # Email and twitter are optional:
